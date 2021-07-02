@@ -1,0 +1,126 @@
+;------------------------
+;-| YURI by JtheSaltyy |-
+;------------------------
+;   - CONSTANTS FILE -
+;------------------------
+
+;================================
+
+[Data]
+life = 970
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.95		
+yscale = 1		
+ground.back = 17		
+ground.front = 17		
+air.back = 17		
+air.front = 17	
+height = 60			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = -1, -80		
+mid.pos = 0, -55		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 3.5
+walk.back = -2.8
+run.fwd  = 5, -4		
+run.back = -6, -5			
+jump.neu = 0, -9 
+jump.back = -3.33, -10 
+jump.fwd = 3.95, -10
+runjump.back = -5,-11
+runjump.fwd = 5,-11	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.515		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ YURI QUOTES ]=
+
+victory1 = "Aw man.. Over so soon? I'll never lose those extra pounds.."
+victory2 = "I hope you didn't hold back because I'm just a girl. I pack a punch."
+victory3 = "With enough wins, I'll be world famous! Everyone will know the Sakazaki name."
+victory4 = "I'll be the next King of Fighters in no time!"
+victory5 = "You sure do have a big mouth. Lemme just shut it real quick."
+victory6 = "Can somebody get this babe a break? I can't fight all the time, ya know."
+victory7 = "I'm super strong and I'm a hot babe. I'm telling you, I'm just too much!"
+victory8 = "Jeez, why are you so mopey after losing?"
+victory9 = "I am a Kyokugenryu master! Yes I am!"
+victory10 = "Ah, Yuri, you are perfection..."
+victory11 = "Hey, where's all the cameras? I wanna get famous today."
+victory12 = "Nobody can look as pretty as I can when winning."
+victory13 = "Angry that you lost to me? Well, stay mad, cause that's exactly what happened."
+victory14 = "I wonder what excitements are in my next fight."
+victory15 = "If you think you're so strong, join the Kyokugenryu dojo. Then you'll get strong."
+victory16 = "That fight was close.. I should go home and practice some more."
+victory17 = "You'll never see another gal by the name of Yuri Sakazaki. Never ever!"
+victory18 = "Hey, I train hard too. From the looks of it, you don't."
+victory19 = "Phew.. These fights are really good workouts.."
+victory20 = "If you wanna spar again, I'm available whenever you are."
+
+
+;=[ SPECIAL QUOTES ]=
+
+
+;VS Ryo
+victory21 = "Looks like I'm the new Kyokugenryu master now!"
+
+;VS Athena Asamiya
+victory22 = "That's some cool magic you got there."
+
+;VS Geese
+victory23 = "Stay down, you big meanie. I'm not sorry for someone as evil as you."
+
+;VS Andy Bogard
+victory24 = "So, are you busy trying to get out of your brother's shadow too?"
+
+;VS Benimaru
+victory25 = "I'm so sorry I messed up your hair! I'll let you get one free shot next fight."
+
+;VS Robert
+victory26 = "Were you holding back, Robert? I expected more from my big bro's rival."
+
+;VS Dan
+victory27 = "Haha! You're so funny! So cool! We should hang out sometime."
+
+;VS Takuma
+victory28 = "So when is it MY turn to be master of Kyokugenryu??"
+
+;VS King
+victory29 = "So... You and my big bro. How's that coming along?"
+
+;VS Mr. Karate II
+victory30 = "Woah.. Am I supposed to believe you are my big bro?? You look so badass!"

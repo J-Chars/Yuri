@@ -1,0 +1,52 @@
+- Yuri Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Yuri? 
+
+ A : I believe Yuri is a simple enough SNK character to do, yet complicated enough to give me a challenge.
+     Also, I'll be making Ryo in the near future to it's best I just have them both.
+
+
+ Q : What's her playstyle like?
+
+ A : Yuri plays mainly like her CvS2 appearance, yet has a few of her KOF moves and supers.
+
+
+ Q : How do you play Yuri?
+
+ A : Yuri does not have a good fireball game. Yet, her Saifa acts as a decent shield. Her options for moving in are aplenty,
+     and she's mainly a rushdown/poker type character. Her entire move set is at it's strongest when close range, and when
+     she does avoid all the fireballs, she is quite scary up close. Her normals have excellent frames, and her combo ability
+     on the majority of her specials allow for a lot of creative combos. Use her demon flip frequently. Her dive kick is very
+     good at closing the gap, and the demon slam she has is very good for catching opponents in air-to-air situations.
+
+
+
+  = BEGINNER COMBOS =
+
+ cr.LP xx cr.LP xx LK xx Chou Knuckle
+
+ HP xx M.Chou Upper, Ko'oken
+
+ HP xx EX. Ko'oken, Dash Jump Forward, AHK, Aerial Raioken
+
+ cr.LP xx cr.LP xx LK xx EX. Saifa, Chou Upper, Chou Upper
+
+ Dive Kick, LP xx LK xx EX. Chou Knuckle, cr.HP
+
+
+  = CUSTOM COMBOS =
+
+ Install, repeat (HP), Hyaku Retsu Binta
+
+ Install, repeat (Chou Upper), Haoh Shokoken
+
+
+ = CREDITS =
+
+  QuickFist - SFF
+
+  KarmaCharizard & Trololo & RagingRowen - Feedback

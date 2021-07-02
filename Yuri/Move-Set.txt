@@ -1,0 +1,280 @@
+==================
+YURI by JtheSaltyy
+==================
+||
+||
+||
+=========
+MOVELIST
+=========
+||
+====
+KEY
+====
+D - Down
+U - Up
+L - Left
+R - Right
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+===========
+DISCLAIMER
+===========
+
+-Before reading the movelist, always assume that all the moves are ground only, unless it is said otherwise.
+
+-Always assume the player is facing to the right.
+
+===========
+MOVE GUIDE
+===========
+
+========
+SYSTEM
+========
+
+Move: Dodge
+Description: Yuri quickly dodges any attacks.
+Command: LP + LK
+PROPERTIES
+-Invulnerability for 6 frames
+
+Move: Evade
+Description: Yuri rolls out of any attacks. She can be thrown however.
+Command: LP + LK + Direction (Back/Forward)
+PROPERTIES
+-Invulnerability for the entire animation
+-Not invincible to throws
+
+Move: Power Charge
+Description: Yuri slowly charges her power
+Command: (Hold) MP + MK
+PROPERTIES
+-None
+
+Move: Alpha Counter
+Description: Yuri counters an attack with her own, which is a guarunteed hit.
+Command (While in Block Stun) MP+MK
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Counter Movement
+Description: Yuri counters an attack and moves out of the way.
+Command (While in Block Stun) MP+MK + Direction (Forward for Roll, Backward for Backdash)
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Advancing Guard
+Description: Yuri pushes the opponent away and returns the game to neutral
+Command: (While in Block Stun) LP + LK
+PROPERTIES
+-None
+
+Move: Custom Combo
+Description: Yuri can cancel any move she wants.
+Command: HP + HK
+Meter Cost: What ever the meter is at, but it has to be over 1 bar
+PROPERTIES
+-Can cancel any move into itself or others
+-Temporary Effect
+-Cannot Use EX Moves, or supers
+-Duration is affected by how much meter Yuri has before using Custom Combo
+
+==============
+UNIQUE NORMALS
+==============
+
+Move: Enyoku
+Description: Yuri leaps forward rear first.
+Command: F + MK
+PROPERTIES
+-None
+
+=========
+THROWS
+=========
+
+Move: Silent Nage
+Description: Yuri does a backward leg throw.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, Recoverable
+
+Move: Chou Kyaku
+Description: Yuri kicks her opponent away with a 360 flip kick
+PROPERTIES
+-Unblockable
+-Hard Knockdown, No Recovery
+-Air Okay
+
+=========
+SPECIALS
+=========
+
+Move: Ko'oken
+Desciption: Yuri shoots a short ranged projectile. The heavier the button, the shorter the distance,
+but the greater the damage.
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Wall Bounce (EX Only)
+
+Move: Chou Upper
+Description: Yuri performs an uppercut. If you quickly perform this move again, she can chain two in a row.
+This lenient juggling allows for other moves to connect after one Chou Upper as well. The EX variant cannont
+juggle, however.
+Command: F, D, DF, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Juggleable (LP/MP/HP Only)
+
+Move: Aerial Raioken
+Description: Yuri shoots an aerial fireball that travels diagonally downwards. This move can also be done
+during the Hoyouku when she leaps in the air.
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Air Only
+-Hard Knockdown (EX Only)
+
+Move: Saifa
+Description: Yuri creates a giant wall. This wall can not only hurt the opponent, but it can also nullify a
+projectile. The EX Saifa causes a slightly higher trajectory on the opponent which can be juggled off of.
+Command: D, DB, B, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Juggleable (EX Only)
+
+Move: Chou Knuckle
+Description: Yuri rockets forward. This is a copy of Terry Bogard's Burn Knuckle. The EX version causes
+the opponent to fly upwards, which can be juggled off of.
+Command: F, DF, D, DB, B, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Juggleable (EX Only)
+
+Move: Raiouken
+Description: Yuri runs and then leaps forward. She performs a quick spike before falling to the ground.
+Command: D, DF, F, K (2K for EX)
+PROPERTIES
+-Ground Bounce (EX Only)
+
+Move: Houyoku
+Description: Yuri leaps in the air. This move acts like Akuma's Demon Flip. You can do certain
+attacks off of this one move. Those moves will be listed below.
+Command: F, D, DF, K (2K for EX)
+PROPERTIES
+-None
+
+Move: Dive Kick
+Description: Yuri performs a quick dive kick. The hit stun decreases with the strength of the button
+increasing. The EX version causes a lot of hit stun, however.
+Command: K (During Houyoku)
+PROPERTIES
+-None
+
+Move: Spike
+Description: Yuri does a Air Heavy Punch.
+Command: P (During Houyoku)
+PROPERTIES
+-Ground Bounce (EX Only)
+
+Move: Chou Slam
+Description: Yuri performs a demon slam. This is good for catching aerial opponents.
+Command: 2P/2K (During Houyoku)
+PROPERTIES
+-Hard Knockdown.
+
+========
+SUPERS
+========
+
+Move: Haoh Shokoken
+Description: Yuri shoots a slow, yet powerful fireball.
+Command: F, B, DB, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Yuri Chou Upper
+Description: Yuri performs 2 Chou Uppers in a row
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Hien Houou Kyaku
+Description: Yuri runs forward. If she gets close to the opponent, she performs
+a flurry of bicycle kicks before ending in a 360 flip kick.
+Command: D, DF, F, DF, D, DB, B, K
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Hyaku Retsu Binta
+Description: Yuri runs forward. If she gets close to the opponent, she slaps the
+opponent repeatedly before giving them one big slap that sends them flying.
+Command: F, DF, D, DB, B, F, K
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Haoh Raikoken
+Description: Yuri does a flip kick. If it hits, she shoots a massive Raikoken at the opponent.
+Command: D, DB, B, D, DB, B, 2K
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Chou Enbu Hien Houou Kyaku
+Description: Yuri runs forward. If she gets close to the opponent, she performs
+a flurry of bicycle kicks before ending in a 360 flip kick. This kick is then
+followed up by a spike that sends the opponent downwards.
+Command: B, DB, D, DF, F, B, F, K
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Chou Enbu Messatsu
+Description: Yuri performs a raging demon. However, her attack range is very short.
+Command: LP, LP, F, LK, HP
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Yuri Ryoku Ranbu
+Description: Yuri runs forward. If she gets close to the opponent, she performs
+a Hien Houou Kyaku. Ryo joins her and assists her with a Zanretsuken. Then, they
+both perform a Haoh Shokoken to the opponent.
+Command: B, DB D, DF, F, DF, D, DB, B, P
+Meter Cost: 3
+PROPERTIES
+-Hard Knockdown, No Recovery
+-MAX Super
+
+Move: Chou Ryoku Ranbu
+Description: Yuri throws out a punch. If it hits, the screen goes black and flashes
+while Yuri performs various moves, taunting along the way. This is ended with one
+final explosive Chou Upper.
+Command: D, DF, F, DF, D, DB, B, 2P
+Meter Cost: 3
+PROPERTIES
+-Hard Knockdown, No Recovery
+-MAX Super
+
+==================
+
+i hope you enjoy!
+
